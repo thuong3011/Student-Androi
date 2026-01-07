@@ -1,11 +1,11 @@
 🛠 Công nghệ sử dụng
 Ngôn ngữ: Java (Android SDK)
 
-Cơ sở dữ liệu: SQLite (Lưu trữ dữ liệu cục bộ)
+Cơ sở dữ liệu: SQLite 
 
 Giao diện: XML, Material Design Components
 
-Công cụ: Android Studio, MPAndroidChart (nếu có dùng thư viện biểu đồ)
+Công cụ: Android Studio, MPAndroidChart 
 
 ✨ Tính năng chính
 Ứng dụng cung cấp đầy đủ các chức năng nghiệp vụ quản lý (CRUD) và báo cáo:
